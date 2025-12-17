@@ -1,0 +1,7 @@
+{
+  "name": "SignalLite-Web",
+  "description": "A secure, minimal, 1-to-1 and small group messaging application reference implementation. Features a dedicated Engineering View detailing the System Architecture, Schema, and Build Plan.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
